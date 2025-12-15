@@ -1,11 +1,6 @@
 *.class
 build/
-gradle/
-gradlew
-gradlew.bat
+.gradle/
 *.iml
 settings.gradle
-.gradle
 .idea
-!gradle/wrapper/gradle-wrapper.jar
-!gradle/wrapper/gradle-wrapper.properties
